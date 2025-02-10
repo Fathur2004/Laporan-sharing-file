@@ -53,7 +53,7 @@
     <img src="https://github.com/user-attachments/assets/594c89fb-c40f-4ffd-994c-973fc01613fc" width="300">
 </div>
 <div class="item">
-    <p><strong>11. setelah memastikan semuanya terhubung langkah selanjutnya yaitu membuat folder dengan nama "background,document,dan music" yang akan di sharing ke laptop 2 </strong></p>
+    <p><strong>11. setelah memastikan semuanya terhubung langkah selanjutnya yaitu membuat folder dengan nama "background,document,music,dan tugas pak adi" yang akan di sharing ke laptop 2 </strong></p>
     <img src="https://github.com/user-attachments/assets/1604f4d5-acb0-4338-b66c-e1115b3a9409" width="300">
 </div>
 <div class="item">
@@ -69,7 +69,7 @@
 <div class="item">
     <p><strong>14. langkah terakhir yaitu menguji apakah file berhasil di share dengan cara pergi ke network atau bisa menggunakan
       \\ip laptop 2</strong></p>
-    <img src="https://github.com/user-attachments/assets/7aec797d-c6a2-4e35-9db2-97a5ba31397f" width="300">
+    <img src="https://github.com/user-attachments/assets/43b00400-52ca-4e8c-9e15-61687c9f182a" width="300">
     <br>
     <img src="https://github.com/user-attachments/assets/a1cc4133-43a2-4b07-9066-826c5bea4443" width="300">
 </div>
