@@ -11,12 +11,12 @@
 
  <div class="item">
     <p><strong>1. Siapkan kabel UTP yang telah dikrimping menjadi kabel cross dan Kabel Conector USB.</strong></p>
-    <img src="https://github.com/user-attachments/assets/25e32ea1-c9b5-4cb4-b4c8-06fc9adf0021" width="300">
-    <img src="https://github.com/user-attachments/assets/6b05fe09-3b39-4d4c-9b69-c6aa5aebb14e" width="300">
+    <img src="https://github.com/user-attachments/assets/d6d9b903-6701-43f7-9742-96822cd5cd8c" width="225">
+    <img src="https://github.com/user-attachments/assets/6b05fe09-3b39-4d4c-9b69-c6aa5aebb14e" width="300">!
  </div>
 <div class="item">
     <p><strong>2. Sambungkan kabel ke setiap laptop 1 dan 2 agar terhubung satu sama lain,</strong></p>
-    <img src="https://github.com/user-attachments/assets/79b1d8b6-2ed6-40d0-bb76-cbee69b3e662" width="300">
+    <img src="https://github.com/user-attachments/assets/bdc5001f-092a-4f3a-badc-2aee59abc882" width="300">
  </div>
  <div class="item">
     <p><strong>3. Kemudian Klik Windows dan search control panel dan masuk kemenunya</strong></p>
