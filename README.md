@@ -1,7 +1,7 @@
 # LAPORAN HASIL PRAKTIKUM
-| Nama        | Muhammad Irfan Nurwahid |
+| Nama        | Fathur Rahman |
 |--------------|------------|
-| NIM        | 09030282327046 |
+| NIM        | 09030282327047 |
 | Program Studi | Teknik Komputer |
 
 ## Judul Percobaan
