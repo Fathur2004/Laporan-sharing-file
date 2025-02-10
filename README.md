@@ -19,24 +19,24 @@
     <img src="https://github.com/user-attachments/assets/bdc5001f-092a-4f3a-badc-2aee59abc882" width="300">
  </div>
  <div class="item">
-    <p><strong>3. Kemudian Klik Windows dan search control panel dan masuk kemenunya</strong></p>
-    <img src="https://github.com/user-attachments/assets/f3301325-dd28-453b-9014-b45beeba67c9" width="300">
+    <p><strong>3. Kemudian Klik Windows dan search control panel dan masuk kemenunya lakukan pada kedua leptop</strong></p>
+    <img src="https://github.com/user-attachments/assets/b058534b-6c94-4b21-a9f9-2e59c9f00576" width="300">
  </div>
  <div class="item">
-    <p><strong>4. Setelah masuk ke control panel, klik menu Network and Internet</strong></p>
-    <img src="https://github.com/user-attachments/assets/a3dfe406-3787-4209-9749-c34f54c7a971" width="300">
+    <p><strong>4. Setelah masuk ke control panel, klik menu Network and Internet lakukan pada kedua leptop</strong></p>
+    <img src="https://github.com/user-attachments/assets/c237e32a-eff9-455c-b605-c5b223bb5468" width="300">
  </div>
  <div class="item">
-    <p><strong>5. Lalu Klik menu Network and Sharing Center</strong></p>
-    <img src="https://github.com/user-attachments/assets/df984518-f7b1-4d4b-91b7-1cd66cafe91f" width="300">
+    <p><strong>5. Lalu Klik menu Network and Sharing Center lakukan pada kedua leptop</strong></p>
+    <img src="https://github.com/user-attachments/assets/93e93d5e-8f0d-486d-9c08-2bc2773f20c8" width="300">
  </div>
  <div class="item">
-    <p><strong>6. Kemudian Klik menu change adapter settings</strong></p>
-    <img src="https://github.com/user-attachments/assets/608018c9-ad79-46cd-99b1-5d83b883fe5b" width="300">
+    <p><strong>6. Kemudian Klik menu change adapter settings lakukan hal sama pada leptop kedua</strong></p>
+    <img src="https://github.com/user-attachments/assets/3cba4c36-82cc-46dd-80ec-7a101f7fe56a" width="300">
  </div>
 <div class="item">
-    <p><strong>7. Cari Ethernet yang terlah terhubung dan masuk ke menu properties</strong></p>
-    <img src="https://github.com/user-attachments/assets/63909d67-dbc9-4a01-86a2-59ec6276d1e7" width="300">
+    <p><strong>7. Cari Ethernet yang terlah terhubung dan masuk ke menu properties lakukan hal sama pada leptop kedua</strong></p>
+    <img src="https://github.com/user-attachments/assets/59c784de-80ac-4ad4-84dc-d361258f2845" width="300">
  </div>
 <div class="item">
     <p><strong>8. klik IPv4, Kemudian setting ip di laptop 1 dan 2 (di sini menggunakan ip class C yaitu 192.168.10.2/24 dan untuk       laptop 2 192.168.10.3/24</strong></p>
